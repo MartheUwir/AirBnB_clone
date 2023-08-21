@@ -1,7 +1,5 @@
 # AirBnB clone - Web static
-# 0x01. AirBnB clone - Web static
-At the end of this project you are expected to be able to explain to anyone, without the help of Google:
-* What is HTML?
+
 * How do you create an HTML page?
 * What is a markup language?
 * What is the DOM?
@@ -14,3 +12,6 @@ At the end of this project you are expected to be able to explain to anyone, wit
 * What is a selector?
 * How do you compute CSS Specificity Value?
 * What are Box properties in CSS?
+
+was uwiringiyimana Marthe down here 
+composing and takin' care of every alx project 
